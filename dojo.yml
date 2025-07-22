@@ -11,7 +11,7 @@ award:
 
 modules:
   - id: shellcode-injection
-    icon: Abra
+    icon: 0063_Abra
 
   - id: return-oriented-programming
-    icon: Kadabra
+    icon: 0064_Kadabra
